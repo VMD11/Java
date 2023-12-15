@@ -1,0 +1,5 @@
+IT5130	Kiến trúc máy tính	3	6.0	7.0	1.0	0	2
+IT3973	Lập trình Java	3	9.5	8.5	9.0	0	2020605565
+IT6306	Công nghệ đa phương tiện	3	9.5	8.5	9.0	0	2020605565
+IT5023	Lập trình Web bằng ASP.NET	3	9.5	8.5	9.0	0	2020605565
+IT9469	Cấu trúc dữ liệu và giải thuật	3	1.0	1.0	1.0	1	2020605565
